@@ -5,7 +5,7 @@
 
   <!-- Your languages and tools. You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/ -->
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" title="excellent"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/kotlin/kotlin-ar21.svg" title="good"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg" title="good"></code>
   <br/>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg" title="excellent"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/gradle/gradle-ar21.svg" title="average"></code>
